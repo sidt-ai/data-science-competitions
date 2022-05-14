@@ -1,3 +1,3 @@
-[Challenge page] (https://dphi.tech/challenges/)
+[Challenge page](https://dphi.tech/challenges/)
 
-[DPhi profile] (https://dphi.tech/profile/sidt-ai/)
+[DPhi profile](https://dphi.tech/profile/sidt-ai/)
